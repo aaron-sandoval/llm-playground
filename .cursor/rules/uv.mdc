@@ -1,0 +1,5 @@
+---
+description: Use uv CLI when running any Python file and to manage packages.
+globs:
+alwaysApply: true
+---

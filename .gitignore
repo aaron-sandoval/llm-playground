@@ -210,8 +210,8 @@ __marimo__/
 .vscode/
 
 # Cursor
-.cursor/
-.cursorrules
+# .cursor/
+# .cursorrules
 
 # LibreOffice
 .~lock.*
